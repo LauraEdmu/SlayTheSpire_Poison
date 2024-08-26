@@ -1,0 +1,6 @@
+[package]
+name = "sts_poison_long"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
